@@ -3,6 +3,7 @@
 ###### 13.06.2017
 Shift Security left: make DevSecOps real
 
+<span style="color:gray; font-size:0.4em">[Slides](https://gitpitch.com/kudelskisecurity/devsecops_pres/devsecops_meetup_062017) || [Source](https://github.com/kudelskisecurity/devsecops_pres/tree/devsecops_meetup_062017)</span>
 
 
 
@@ -23,6 +24,7 @@ And a plug
 
 And a big thanks
 <span style="display:block; text-align:right; color:white">\+ to our sponsor (look at the top-left logo)</span>
+<span style="display:block; text-align:right; color:white">\+ My wife, who went shopping for our apero!</span>
 
 ---
 <span style="color:gray; display:block; text-align:center">Embracing DevOps at KS engineering</span>
@@ -162,7 +164,7 @@ Security status, if possible, should be shown on a dashboard much like Jenkins j
 <span style="display:block; text-align:right; color:white">\+ Onboard your management</span>
 
 <span style="display:block; color:rgb(0,148,147)"> - Establish a true relationship </span>
-<span style="display:block; color:rgb(0,148,147)"> - work with them over the long haul to match their expectations</span>
+<span style="display:block; color:rgb(0,148,147)"> - Work with them over the long haul to match their expectations</span>
 
 +++
 
