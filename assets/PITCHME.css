@@ -1,0 +1,22 @@
+.reveal section img {
+  border: 0;
+  box-shadow: none;
+}
+
+.reveal section img[src$="centerimg"] {
+  display: block;
+  border: 0;
+  margin: 0 auto;
+}
+
+.reveal .slides {
+    text-align: left;
+    font-size: 0.8em;
+    margin-left: 10;
+    margin-right: 10;
+}
+
+.reveal .slides section>* {
+    margin-left: 10;
+    margin-right: 10;
+}

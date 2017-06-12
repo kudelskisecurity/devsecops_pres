@@ -1,0 +1,6 @@
+theme: moon
+#logo: assets/logo-kudelski-smallest.png
+logo: assets/KS-_LOGO-SILVER_small.png
+revealjs: 3.4.1
+theme-override: assets/PITCHME.css
+slide-number: true
