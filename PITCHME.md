@@ -283,6 +283,7 @@ If at all possible, get a second -- outside -- opinion.
 <span style="display:block; text-align:right; color:white">\+ [Github security](https://bounty.github.com)</span>
 <span style="display:block; text-align:right; color:white">\+ Red Vs Blue teams</span>
 <span style="display:block; text-align:right; color:white">\+ Pen testing</span>
+<span style="display:block; text-align:right; color:white">\+ Shared threat intelligence</span>
 
 
 ---
@@ -297,3 +298,4 @@ References
 - DevSecOps: http://www.oreilly.com/webops-perf/free/files/devopssec.pdf
 - The treacherous 12: https://downloads.cloudsecurityalliance.org/assets/research/top-threats/Treacherous-12_Cloud-Computing_Top-Threats.pdf
 - DevOps explained: https://www.niceideas.ch/roller2/badtrash/entry/devops-explained
+- DevSecOps manifesto: http://www.devsecops.org
